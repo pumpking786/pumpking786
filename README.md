@@ -5,9 +5,9 @@ A passionate Chess Player & Web Developer
 ![Profile views](https://komarev.com/ghpvc/?username=pumpking786&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🎥 YouTube: [ChesswithPramit](https://www.youtube.com/@ChesswithPramit)
-- 🌍 Website: [Pramit Amatya Official](https://yourwebsite.com)  
-- 📧 Reach me: your.email@gmail.com  
-- ⚡ Fun fact: My chess nickname is **PumpKinG** 🎃  
+- 🌍 Website: [Pramit Amatya Official](https://pramitamatya.com.np)  
+- 📧 Reach me: pramitamatya786@gmail.com  
+- ⚡ Fun fact: My nickname is **PumpKinG** 🎃  
 
 ### Connect with me:
 <p align="left">
