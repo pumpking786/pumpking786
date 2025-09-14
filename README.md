@@ -12,7 +12,7 @@ A passionate Chess Player & Web Developer
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/yourinstagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://instagram.com/yourinstagram" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)" alt="instagram" height="40" width="40" /></a>
 <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
 </p>
 
