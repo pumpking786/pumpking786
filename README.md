@@ -5,7 +5,7 @@
 
 👨‍💻 Portfolio <a href="https://pramitamatya.com.np" target="_blank">pramitamatya.com.np</a><br>
 📫 Reach me **pramitamatya786@gmail.com**<br>
-⚡ Fun fact:  **When I was a kid, people gave me a nickname "Pumpkin". I just added G in it.**
+⚡ Fun fact:  **When I was a kid, people gave me a nickname "Pumpkin". I just added G in it. (No lie)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
